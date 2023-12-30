@@ -42,8 +42,8 @@
             </div>
 
             <nav class="relative flex flex-wrap justify-center gap-8 p-8 text-sm font-bold border-2 border-black rounded-xl">
-                <a class="hover:opacity-75" href="https://nasirkhn.com" target="_blank" rel="noopener noreferrer">
-                    Nasir Khan Saikat
+                <a class="hover:opacity-75" href="https://github.com/Prashu2017" target="_blank" rel="noopener noreferrer">
+                    Prashant Kishore Sharma
                 </a>
 
                 <a class="hover:opacity-75" href="/blog" target="_blank" rel="noopener noreferrer">

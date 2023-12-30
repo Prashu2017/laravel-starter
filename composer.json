@@ -1,5 +1,5 @@
 {
-    "name": "nasirkhan/laravel-starter",
+    "name": "prashu2017/laravel-starter",
     "description": "A CMS like modular Laravel starter project.",
     "keywords": ["framework", "laravel", "cms", "starter", "admin", "admin dashboard", "laravel blog", "website" ],
     "license": "GPL-3.0-or-later",
@@ -33,7 +33,6 @@
         "fakerphp/faker": "^1.21",
         "laravel/breeze": "^1.19",
         "laravel/pint": "^1.6",
-        "laravel/sail": "^1.21",
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^7.0",
         "nunomaduro/larastan": "^2.6",
